@@ -15,7 +15,9 @@ Desktop
 ![desktop](example-images/desktop00.png)
 
 Mobile
+
 ![mobile](example-images/mobile00.png)
+
 
 To run this app correctly follow instructions below.
 
