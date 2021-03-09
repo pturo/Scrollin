@@ -7,6 +7,7 @@ in database using Firebase. This app can be running on several platforms:
 - Desktop (on Windows and Mac),
 - Mobile (on Android and iOS).
 Here is some screenshots for devices above.
+
 Web
 ![web](example-images/web00.png)
 
