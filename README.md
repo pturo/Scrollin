@@ -1,6 +1,12 @@
 # Scrollin'
 
-Multiplatform app made with Quasar framework based on this tutorial: https://www.youtube.com/watch?v=la-0ulfn0_M
+## What's new?
+
+There is no new features.
+
+## About project
+
+Scrollin' is a multiplatform app made with Quasar framework based on this tutorial: https://www.youtube.com/watch?v=la-0ulfn0_M
 This application allows you to post Twitter-like posts. You can also like your posts and delete. Every post is saved
 in database using Firebase. This app can be running on several platforms:
 - Web (in your web browser),
@@ -18,31 +24,17 @@ Mobile
 
 ![mobile](example-images/mobile00.png)
 
+## Technologies used in the project
 
-To run this app correctly follow instructions below.
+* Quasar Framework
+* Vue.js
 
-## Install the dependencies
-```bash
-npm install
-```
+## Goals
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+Main goal is to learn new technology.
 
-### Lint the files
-```bash
-npm run lint
-```
+## License
 
-### Build the app for production
-```bash
-quasar build
-```
+My project is under BSD-2-Clause license. You can use some parts from my code but remember to credit me as an appreciation to my work! Thanks! Awoo!
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
-
-And of course check your configurations for desktop and mobile version if you would like to run it there.
-For mobile version follow instructions: https://quasar.dev/quasar-cli/developing-cordova-apps/build-commands
+© 2022 Paweł "Wilczeq/Vlk" Turoń
